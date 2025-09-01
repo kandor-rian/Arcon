@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Asistente Médico IA",
+  "description": "Una aplicación impulsada por IA que proporciona información sobre condiciones médicas, un generador de contenido y un asistente de chat conversacional con entrada de voz.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
